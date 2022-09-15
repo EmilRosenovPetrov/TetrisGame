@@ -30,7 +30,7 @@
             <Canvas x:Name="GameCanvas"              
                 Background="Black"
                 Width="250"
-                Height="500"
+                Height="510"
                 ClipToBounds="True"
                 Loaded="GameCanvas_Loaded">
             </Canvas>
