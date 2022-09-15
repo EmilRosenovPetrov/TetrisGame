@@ -5,6 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <Win32Resource>Assets/Icon.ico</Win32Resource>
   </PropertyGroup>
 
   <ItemGroup>
